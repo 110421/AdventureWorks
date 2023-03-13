@@ -19,7 +19,7 @@ To gain insights into the problem statement, I will utilize SQL and Power BI to 
 
 From May 2011 to June 2014, AdventureWorks generated a total revenue of 10.37 million, with a profit of 13.09 million. Bikes were the most significant contributor to revenue, generating nearly 95 million, while accessories had the most orders, with 19524 orders. Accessories were also the highest profit margin category, with 50%.
 
-The southeast US generated the most revenue, with 24,3 million, while Germany was the lowest revenue-generating region. 
+The southwest US generated the most revenue, with 24,3 million, while Germany was the lowest revenue-generating region. 
 
 The top 5 revenue-generating products were Mountain-200 Black, 38, Mountain-200 Black, 42, Mountain-200 Silver, 38, Mountain-200 Silver, 42, Mountain-200 Silver, 46.
 
@@ -27,4 +27,4 @@ Top 5 most ordered products were Water Bottle – 30 oz, AWC Logo Cap, Patch Kit
 
 **Recommendations:**
 
-To increase revenue and profit, AdventureWorksshould focus on the southeast US market region. Additionally, Germany’s performance can be improved through effective marketing strategies. Lastly, we should produce more products from accessories to in crease profit. 
+To increase revenue and profit, AdventureWorksshould focus on the southwest US market region. Additionally, Germany’s performance can be improved through effective marketing strategies. Lastly, we should produce more products from accessories to in crease profit. 
