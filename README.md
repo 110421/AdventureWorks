@@ -9,9 +9,10 @@ Adventureorks is a fictious company created by Microsoft, with a comprehensive s
 **Problem statement**
 
 The goal of this project is to increase AdventureWorks’s revenue by 5% by the end of next year. This will be achieved by focusing on regions that generate the most revenue, increasing marketing efforts, and producing products with the highest profit margin.
-Data 
 
-The AdventureWorks sample database, along with a pdf file that explains the database’s relational schemas and all table information, can be obtained from AdventureWorks sample databases - SQL Server | Microsoft Learn. I have upload the resources to my GitHub account for practical purposes.
+**Data** 
+
+The AdventureWorks sample database, along with a pdf file that explains the database’s relational schemas and all table information, can be obtained from https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms. I have upload the resources to my GitHub account for practical purposes.
 To gain insights into the problem statement, I will utilize SQL and Power BI to explore and reshape data, use a variety of queries to answer questions, and extract insights.
 
 **Insights**
