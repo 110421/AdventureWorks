@@ -28,3 +28,5 @@ Top 5 most ordered products were Water Bottle – 30 oz, AWC Logo Cap, Patch Kit
 **Recommendations:**
 
 To increase revenue and profit, AdventureWorksshould focus on the southwest US market region. Additionally, Germany’s performance can be improved through effective marketing strategies. Lastly, we should produce more products from accessories to in crease profit. 
+
+link for dashboard : https://app.powerbi.com/links/K7KrHeT6Qg?ctid=40de5ee6-9601-4569-adf6-5fb5fa76a58d&pbi_source=linkShare
